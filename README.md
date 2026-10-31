@@ -1,1 +1,1 @@
-![Something Is Cooking](https://raw.githubusercontent.com/nikhil-patare007/profile/main/nikhil-patare-dark.gif)
+![Something Is Cooking](./nikhil-patare-dark.gif)
